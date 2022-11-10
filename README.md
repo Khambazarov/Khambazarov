@@ -1,8 +1,7 @@
-# Hi there, I'm Renat 👋
+# Hi there, I am Renat!
 
-#### 🔭 I’m currently working on the final project as a student at DCI - Digital Career Institute
-#### 🌱 I’m currently learning a lot about API, Database, JavaScript-ES6 and React
-#### 🤔 I’m looking for help with finding an internship or a job
+#### I am currently learning a lot about API, Database, JavaScript-ES6 and React
+#### I am looking for an internship or a job
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
