@@ -1,6 +1,6 @@
 # Hi there, I am Renat!
 
-#### I am currently learning a lot about API, Database, JavaScript-ES6 and React
+#### I am currently learning a lot about Linux, API, Database, JavaScript-ES6 and React
 #### I am looking for an internship or a job
 
 <div style="display: inline_block">
