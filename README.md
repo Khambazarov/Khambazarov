@@ -1,11 +1,3 @@
-%%html
-
-<style>
-    .bg-color {
-        background-color: #f00;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">A passionate frontend developer from Hamburg</h3>
 
@@ -15,7 +7,7 @@
 
 - I’m looking for a **job**
 
-<p class="bg-color" align="left">
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/>
     <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="bash" width="60"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
