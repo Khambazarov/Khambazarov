@@ -9,7 +9,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a style="text-decoration: none" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a
+        style="text-decoration: none;"
+        href="https://www.gnu.org/software/bash/"
+        target="_blank"
+        rel="noreferrer"
+      >
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   <a style="text-decoration: none" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
