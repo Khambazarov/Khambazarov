@@ -2,7 +2,7 @@
 
 <style>
     .bg-color {
-        height: 200px;
+        background-color: #f00;
     }
 </style>
 
@@ -15,7 +15,7 @@
 
 - I’m looking for a **job**
 
-<p align="left">
+<p class="bg-color" align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/>
     <img class="bg-color" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
