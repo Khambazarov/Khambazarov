@@ -14,5 +14,5 @@
   <img align="center" alt="Express" height="45" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="LINUX" height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+  <img align="center" alt="LINUX" height="80" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
 </div>  
