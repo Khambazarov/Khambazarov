@@ -3,6 +3,8 @@
 
 - I’m currently working on [portfolio](https://khambazarov-portfolio.netlify.app/ target="_blank")
 
+- I’m currently working on <a href="https://khambazarov-todo.netlify.app/" target="_blank">ToDo-App</a>
+
 - I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
 - I’m looking for a **job**
