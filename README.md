@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">A passionate frontend developer from Hamburg</h3>
 
-- I’m currently working on [portfolio](https://khambazarov-portfolio.netlify.app/ target="_blank")
-
 - I’m currently working on <a href="https://khambazarov-todo.netlify.app/" target="_blank">ToDo-App</a>
+
+- I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app/ "Github" target="_blank")
 
 - I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
