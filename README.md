@@ -3,16 +3,16 @@
 
 - I’m currently working on [portfolio](https://khambazarov-portfolio.netlify.app/)
 
-- I’m currently learning **a lot about Git | Linux | Bash | CSS | Tailwind | JS | React | API | Database**
+- I’m currently learning a lot about **Git | Linux | Bash | CSS | Tailwind | JS | React | API | Database**
 
-- I’m looking for **an internship or a job**
+- I’m looking for a **job**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a style="text-decoration: none" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a style="text-decoration: none" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
