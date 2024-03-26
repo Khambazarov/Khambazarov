@@ -2,7 +2,7 @@
 
 <style>
     .bg-color {
-        background-color: #fff;
+        height: 200px;
     }
 </style>
 
