@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">A passionate frontend developer from Hamburg</h3>
 
-Click [here](https://www.geeksforgeeks.org/){:target="_blank"}  
-to visit GeeksForGeeks website.
+<a href="https://www.geeksforgeeks.org/" target="_blank">here</a>
   
 - I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app)
 
