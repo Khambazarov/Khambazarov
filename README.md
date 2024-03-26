@@ -4,7 +4,9 @@
 #### I am looking for an internship or a job
 
 <div style="display: inline_block">
+  <a href="https://git-scm.com/">
   <img align="center" alt="GIT" height="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+</a>
   <img align="center" alt="HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
