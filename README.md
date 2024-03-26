@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">A passionate frontend developer from Hamburg</h3>
 
-<a href="https://www.geeksforgeeks.org/" target="_blank">here</a>
-  
-- I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app)
-
 - I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
 - I’m looking for a **job**
