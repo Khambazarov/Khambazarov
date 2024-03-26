@@ -17,7 +17,7 @@
 
 <p class="bg-color" align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/>
-    <img class="bg-color" src="https://ohmybash.nntoan.com/assets/img/OMBLogo_BnW.png" alt="bash" width="85" style="margin-bottom:-15px"/>
+    <img class="bg-color" src="https://ohmybash.nntoan.com/assets/img/OMBLogo_BnW.png" alt="bash" width="85" margin-bottom="-15px"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60"/>
