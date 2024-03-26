@@ -3,7 +3,7 @@
 
 - I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
-- I’m looking for a **job**
+- I’m looking for an **internship** or a **job**
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/> 
