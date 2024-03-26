@@ -3,7 +3,7 @@
 
 - I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app/){:target="_blank"}
 - 
-- I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app "TODO-App" onclick="window.open(this.href,'_blank');return false;")
+- I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app "TODO-App" onclick="window.open(this.href,'_blank');return true;")
 
 - I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
