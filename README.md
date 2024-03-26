@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">A passionate frontend developer from Hamburg</h3>
 
+<a href="http://example.com/" target="_blank">example</a>
+
 - I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app/){:target="_blank"}
 - 
-- I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app "TODO-App" onclick="window.open(this.href,'_blank');return true;")
+- I’m currently working on [TODO-APP](https://khambazarov-todo.netlify.app)
 
 - I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
