@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">A passionate frontend developer from Hamburg</h3>
 
-- I’m currently learning a lot about **Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
+- **I’m currently learning a lot about Linux | Bash | Git | CSS | Tailwind | JS | TS | React | Next | API | Database**
 
-- I’m looking for an **internship or a job**
+- **I’m looking for an internship or a job**
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/> 
