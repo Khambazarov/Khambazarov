@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60"/> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fastro.build%2Fpress%2F&psig=AOvVaw36mK5Va44pFDQrclcxlX2o&ust=1726773530436000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiW3-6azYgDFQAAAAAdAAAAABAE" alt="react" width="60"/> 
+    <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="react" width="60"/> 
     <img src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630" alt="nextjs" width="130"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60"/>
 </p>
