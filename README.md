@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
-    <img src="https://e7.pngegg.com/pngimages/846/87/png-clipart-mean-solution-stack-express-js-node-js-javascript-github-text-trademark.png" alt="express" width="100"/>
+    <img src="https://banner2.cleanpng.com/20180821/zwc/39e9b8bbcc5ea47a102ee953d70ff430.webp" alt="express" width="100"/>
     <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="astro" width="130"/>
     <img src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630" alt="nextjs" width="100"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50"/>
